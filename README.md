@@ -10,3 +10,23 @@ Además de la clase abtracta, he añadido diferentes tipos de relaciones entre c
 
 ![](/Documentos/Diseño.svg)
 
+## Segunda Reunión
+
+En la segunda reunión continuamos con el diseño modular, donde aplicamos los principios del diseño modular.
+
+He definido diferentes modulos que agrupan clases relacionadas, las entidades de gestión en Gestión del Festival, las de evaluaciones en Evaluación... De esta forma conseguimos una clara separación de responsabilidades.
+
+![](/Documentos/DiseñoModular.svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
