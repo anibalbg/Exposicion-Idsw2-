@@ -21,11 +21,7 @@ He definido diferentes modulos que agrupan clases relacionadas, las entidades de
 
 ## Tercera Reunión
 
-
-
-
-
-
+En esta tercera sesión he aplicado los principios SOLID, 
 
 
 
