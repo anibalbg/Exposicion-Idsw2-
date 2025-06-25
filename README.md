@@ -11,8 +11,6 @@ En primer lugar, analizamos el diagrama proporcionado y procedimos a la **identi
 
 Posteriormente, continuamos haciendo un diagrama inicial a visión general.
 
-📌 *Diagrama corregido del modelo de dominio:*
-
 ![Modelo del dominio](/Documentos/modeloDoinio.svg)
 
 ---
