@@ -45,8 +45,6 @@ Se organizaron las clases en módulos coherentes:
 - **Proyecciones**: películas y sesiones
 - **Participación**: asistentes
 
-Además, se refinaron los **atributos de cada clase** para adaptarlos mejor a su función.
-
 
 ![Diseño Modular](/Documentos/DiseñoModular.svg)
 
