@@ -47,7 +47,6 @@ Se organizaron las clases en módulos coherentes:
 
 Además, se refinaron los **atributos de cada clase** para adaptarlos mejor a su función.
 
-📌 *Diagrama de diseño modular:*
 
 ![Diseño Modular](/Documentos/DiseñoModular.svg)
 
@@ -62,6 +61,5 @@ En esta fase se aplicaron los **principios SOLID** al diseño:
 - **LSP (Sustitución de Liskov)**: `DirectorFestival`, `Asistente` y `Jurado` pueden sustituir a `Persona` sin afectar la lógica.
 - **DIP (Inversión de Dependencias)**: `Festival` depende de la abstracción `IDirector`, no de una implementación concreta como `DirectorFestival`.
 
-📌 *Diagrama orientado a objetos con SOLID:*
 
 ![Diseño Orientado a Objetos](/Documentos/DIseñoOrientadoObjetos.svg)
