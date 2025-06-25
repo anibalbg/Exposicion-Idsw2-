@@ -59,5 +59,5 @@ En esta fase se aplicaron los **principios SOLID** al diseño:
 - **LSP (Sustitución de Liskov)**: `DirectorFestival`, `Asistente` y `Jurado` pueden sustituir a `Persona` sin afectar la lógica.
 - **DIP (Inversión de Dependencias)**: `Festival` depende de la abstracción `IDirector`, no de una implementación concreta como `DirectorFestival`.
 
+![Diseño Orientado a Objetos](/Documentos/DOO.svg)
 
-![Diagrama Orientado a Objetos](/Documentos/DOO.svg)
