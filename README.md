@@ -24,7 +24,7 @@ He definido diferentes modulos que agrupan clases relacionadas, las entidades de
 En esta tercera sesión he aplicado los principios SOLID, 
 
 
-![](/Documentos/DiseñoOrientadoObjetos.svg)
+![](/Documentos/DIseñoOrientadoObjetos.svg)
 
 
 
