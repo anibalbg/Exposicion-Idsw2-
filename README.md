@@ -9,6 +9,8 @@ En primer lugar, analizamos el diagrama proporcionado y procedimos a la **identi
 - **Entidades innecesarias**
 - **Relaciones inconsistentes**
 
+Posteriormente, continuamos haciendo un diagrama inicial a visión general.
+
 📌 *Diagrama corregido del modelo de dominio:*
 
 ![Modelo del dominio](/Documentos/modeloDoinio.svg)
