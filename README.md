@@ -60,4 +60,4 @@ En esta fase se aplicaron los **principios SOLID** al diseño:
 - **DIP (Inversión de Dependencias)**: `Festival` depende de la abstracción `IDirector`, no de una implementación concreta como `DirectorFestival`.
 
 
-![Diseño Orientado a Objetos](/Documentos/DiagramaOrientadoObjetos.svg)
+![Diagrama Orientado a Objetos](/Documentos/DiagramaOrientadoObjetos.svg)
