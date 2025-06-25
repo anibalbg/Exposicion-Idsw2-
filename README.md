@@ -1,7 +1,7 @@
 
-# 🎬 Exposición - IDSW2
+# 🎬 Examen Extraordinario Idsw II
 
-## 🟢 Primera Reunión
+##  Primera Reunión
 
 En primer lugar, analizamos el diagrama proporcionado y procedimos a la **identificación de errores**. El diagrama inicial presentaba problemas como:
 
@@ -36,7 +36,7 @@ También se añadieron diferentes tipos de relaciones:
 
 ---
 
-## 🟡 Segunda Reunión
+##  Segunda Reunión
 
 Durante esta reunión se abordó el **diseño modular** aplicando los principios de **separación de responsabilidades**.
 
@@ -55,7 +55,7 @@ Además, se refinaron los **atributos de cada clase** para adaptarlos mejor a su
 
 ---
 
-## 🔵 Tercera Reunión
+##  Tercera Reunión
 
 En esta fase se aplicaron los **principios SOLID** al diseño:
 
