@@ -30,8 +30,6 @@ También se añadieron diferentes tipos de relaciones:
 - **Agregación** entre `Sesión → Película`, dado que una película puede existir sin sesión.
 - **Asociaciones** entre las demás clases.
 
-📌 *Diagrama orientado a objetos corregido:*
-
 ![Diseño](/Documentos/Diseño.svg)
 
 ---
