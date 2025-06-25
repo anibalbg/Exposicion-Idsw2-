@@ -21,7 +21,7 @@ He definido diferentes modulos que agrupan clases relacionadas, las entidades de
 
 ## Tercera Reunión
 
-En esta tercera sesión he aplicado los principios SOLID, 
+En esta tercera sesión he aplicado los principios SOLID, empezando por el principio de responsabilidad única en cada clase, por ejemplo, jurado, ya que su función es solo evaluar películas. Otro principio usado sería el OCP, utilizando interfaces como IPersona e IDirector, ya que permite extender funcionalidades sin modificar codigo, por ejemplo, podríamos añadir juradoInternacional sin cambiar jurado, estas interfaces también aplican al principio de sustitución de Liskov, donde directorFestival implementa IDirector o las clases DirectorFestival, Asistente y Jurado pueden sustituir a Persona sin romper su comportamiento. Finalmente, el ultimo principio utilizado es el de Inversión de dependecias, ya que Festival depende de IDirector (clase abstracta), no de DirectorFestival (implementación).
 
 
 ![](/Documentos/DIseñoOrientadoObjetos.svg)
