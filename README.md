@@ -61,5 +61,5 @@ En esta fase se aplicaron los **principios SOLID** al diseño:
 
 Y finalmente la relación `Asistente → Sesión` la cambiamos a agregación y añadimos correctamente las variables de cada entidad.
 
-![Diseño Orientado a Objetos](/Documentos/DOO.svg)
+![Diseño Orientado a Objetos](/Documentos/DiseñoOrientadoObjetos.svg)
 
